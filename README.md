@@ -1,3 +1,6 @@
+
+![Mario original gif](./assets/mario_original.gif)
+
 # Hi there, I'm Mick Ramahazomanana 👋
 
 **Full-Stack Developer | System & DevSecOps**
