@@ -80,5 +80,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/mick-ramah-6b7a8b324/
+- LinkedIn: https://www.linkedin.com/in/mick-ramah/
 - Email: ramahazonick@gmail.com
